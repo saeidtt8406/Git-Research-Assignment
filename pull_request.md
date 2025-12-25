@@ -1,0 +1,1 @@
+(PR) A Pull Request is a way to propose changes you've made to a repository. Once submitted, the project maintainers can review your work, discuss potential modifications, and eventually merge it into the main project.
